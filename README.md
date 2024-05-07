@@ -18,7 +18,7 @@ The task is designed to test your full-stack experience, problem-solving skills 
 
 ## Steps
 1. Build a Python API server using FastAPI / Flask / Django / any other framework you prefer.
-   - The server should expose the `/integrations` API endpoint, accepting the 
+   - The server should expose the `/integrations` API endpoint
    - The API endpoint should return the list of integrations, including the following information for each one:
      - Name
      - Description
